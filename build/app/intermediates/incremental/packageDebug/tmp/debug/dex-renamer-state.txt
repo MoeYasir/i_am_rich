@@ -1,0 +1,4 @@
+#Mon Mar 11 15:04:13 CAT 2024
+base.0=/Users/mohammedyasir/StudioProjects/i_am_rich/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
